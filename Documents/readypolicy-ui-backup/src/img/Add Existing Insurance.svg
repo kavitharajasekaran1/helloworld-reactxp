@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Add Existing Insurance</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Add-Existing-Insurance">
+            <g>
+                <rect id="Rectangle-7" x="0" y="0" width="72" height="72"></rect>
+                <g id="insurance" transform="translate(13.000000, 13.000000)">
+                    <path d="M22.6318304,45.2636608 C10.1520871,45.2636608 0,35.1111842 0,22.6318304 C0,10.1524767 10.1524767,0 22.6318304,0 C35.1111842,0 45.2636608,10.1524767 45.2636608,22.6318304 C45.2636608,35.1111842 35.1115737,45.2636608 22.6318304,45.2636608 Z" id="Shape" fill="#FF6A6B" fill-rule="nonzero"></path>
+                    <text id="+" font-family="PingFangSC-Semibold, PingFang SC" font-size="25.3476501" font-weight="500" fill="#FFFFFF">
+                        <tspan x="15.3323359" y="30">+</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
